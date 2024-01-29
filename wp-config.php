@@ -26,7 +26,7 @@ define( 'DB_NAME', 'food' );
 define( 'DB_USER', 'root' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'root' );
+define( 'DB_PASSWORD', 'Mitrah@2023' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
